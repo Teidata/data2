@@ -8,3 +8,14 @@ body {
   max-width: 225px;    /* Tamaño (máximo) de ancho de las imágenes */
   margin: auto;
 }
+
+/* Formato del slider */
+.ba-slider {
+  width: 225px;
+  margin: auto;
+  border: 5px solid #000;
+}
+
+/* Formato del slider */
+$('.ba-slider').beforeAfter();
+
