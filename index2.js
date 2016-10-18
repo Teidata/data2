@@ -10,7 +10,9 @@ $(document).ready(function() {
   }
 
   );
+  /* Formato del slider */
+$('.ba-slider').beforeAfter();
 });
 
-/* Formato del slider */
-$('.ba-slider').beforeAfter();
+
+
